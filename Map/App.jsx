@@ -2,7 +2,7 @@ import { useState } from 'react';
 import Navbar from './components/Navbar';
 import Sidebar from './components/Sidebar';
 import Map from './components/Map';
-import Info from './components/info';
+import Info from './components/Info';
 import './index.css';
 
 function App() {
